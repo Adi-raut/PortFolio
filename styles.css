@@ -545,7 +545,7 @@ a{
   flex-wrap:wrap;
   width:50%;
   position:relative;
-  gap:2rem;
+  gap:3rem;
   justify-content: center;
 }
 
